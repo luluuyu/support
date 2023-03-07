@@ -1,5 +1,7 @@
 Apps' FAQ:
 
+![Image](https://raw.githubusercontent.com/Gladysid/Images-blog/master/IE-box-pic.png)
+
 1. If you have any problem when using this App.
 
 > You can contact us with 522128222@qq.com
