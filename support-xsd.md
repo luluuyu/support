@@ -1,10 +1,11 @@
 Apps' FAQ:
 
-![Image](https://raw.githubusercontent.com/Gladysid/Images-blog/master/IE-box-pic.png)
+![Image](https://raw.githubusercontent.com/luluuyu/support/master/xsd-logo.png)
 
-1. If you have any problem when using this App.
+如果您在使用过程中有问题请留言或发邮件我。
+邮箱地址：522128222@qq.com
+谢谢!
 
-> You can contact us with 522128222@qq.com
-
-2. Restore Purchase failed, how to resolve it?
-> Please confirm if you use the same Apple ID as the one when you purchased it. Use the correct Apple ID to login and do [Restore Purchase] again to see if it works
+If you have any questions, please leave a message or send me an email.
+Email： 522128222@qq.com
+Thank you!
